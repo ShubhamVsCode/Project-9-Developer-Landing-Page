@@ -1,14 +1,20 @@
-# Live Class from Hitesh
+# Project 9 - HTML ![](./readmeImages/html-5.png) and CSS ![](./readmeImages/css-3.png)
 
-## Class about hosting websites
+By Shubham
 
-In this class we discussed about hosting websites also we talked about pushing code to git and github.
-But you can you vercel to host your website.
+Here's the Live Deployed Website ![Project 9](https://img.shields.io/badge/Project-9-brightgreen)
 
-[Vercel](https://vercel.com/)
+## [DEPLOYED WEBSITE LINK](https://jsdevportfolio.netlify.app/)
 
-![Live Class](https://img.shields.io/badge/LiveClass-Sunday-red)
+![Completed Website](./readmeImages/completedScreenshot.jpg)
 
-# Here's my Website's Screenshot
+## What I learned from this Project?
 
-![ScreenShot of Website](./completedScreenshot.jpg)
+- I learned about **Layout** making through **Flexbox**.
+- I also learned how to use **Icons**.
+- I also learned how to design **Full Website End to End**.
+- I also learned how to use **Offset Some Images**.
+- I also learned about **Box Shadow**.
+- I also learned how to use **Hover Effect**.
+
+## This project took around **10 hours** to complete.
