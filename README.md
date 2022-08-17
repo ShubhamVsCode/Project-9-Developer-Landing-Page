@@ -13,7 +13,7 @@ Here's the Live Deployed Website ![Project 9](https://img.shields.io/badge/Proje
 - I learned about **Layout** making through **Flexbox**.
 - I also learned how to use **Icons**.
 - I also learned how to design **Full Website End to End**.
-- I also learned how to use **Offset Some Images**.
+- I also learned **Offset Some Images**.
 - I also learned about **Box Shadow**.
 - I also learned how to use **Hover Effect**.
 
